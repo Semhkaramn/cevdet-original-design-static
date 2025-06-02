@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -48,3 +49,7 @@ export default tseslint.config({
   },
 })
 ```
+=======
+# cevdet-original-design-static
+Turkish gambling site with original Vue.js design converted to React with static data - preserves exact original styling and functionality
+>>>>>>> 62a8959689089e7ff3330233361f348e04b67a06
